@@ -1,0 +1,16 @@
+[
+  {
+    "id": "1",
+    "title": "Review Nest.js Fundamentals",
+    "description": "Go through the concepts of modules, services, and controllers again",
+    "isCompleted": true,
+    "priority": "high"
+  },
+  {
+    "id": "2",
+    "title": "Build Task API Endpoints",
+    "description": "Implement all CRUD operations for the task resource",
+    "isCompleted": false,
+    "priority": "low"
+  }
+]
